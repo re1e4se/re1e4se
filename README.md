@@ -1,9 +1,9 @@
 <h2>Hi, I'm Ege, aka EgeLosing</h3>
 
 <h1>I'm C# Developer & Custom Launcher Developer For Minecraft.</h2>
-- Owner @ SUNRISE NETWORK
-- Currently working on SUNRISE Launcher & Lite, SunCore.
-- Learning C, Java.
+<p>- Owner @ SUNRISE NETWORK</p>
+<p>- Currently working on SUNRISE Launcher & Lite, SunCore.</p>
+<p>- Learning C, Java.</p>
 
 <h3>Custom program, Launcher prices</h4>
 <p>You can get the list by adding me in discord. (EgeLosing#9999 or egelosing#9999 two of them is valid.)
