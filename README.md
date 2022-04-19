@@ -12,4 +12,4 @@
 <p>Discord - EgeLosing#9999 or egelosing#9999 two of them is valid.</p>
 <p></p>
 
-[![EgeLosing's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgeLosing)](https://github.com/anuraghazra/github-readme-stats)
+[![EgeLosing's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgeLosing)](https://github.com/EgeLosing)
