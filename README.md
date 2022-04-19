@@ -16,4 +16,4 @@
 
 <p></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgeLosing&show_icons=true&theme=tokyonight&hide_border=true&border-radius=36)](https://github.com/EgeLosing)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgeLosing&show_icons=true&theme=prussian&hide_border=true&border-radius=36)](https://github.com/EgeLosing)
