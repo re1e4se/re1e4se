@@ -13,4 +13,5 @@
 <p></p>
 
 [![EgeLosing's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgeLosing&show_icons=true&theme=tokyonight&hide_border=true&border-radius=36)](https://github.com/EgeLosing)
+<p></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgeLosing)](https://github.com/EgeLosing)
