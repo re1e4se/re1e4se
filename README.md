@@ -12,7 +12,7 @@
 <p>Discord - EgeLosing#9999 or egelosing#9999 two of them is valid.</p>
 <p></p>
 
-[![EgeLosing's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgeLosing&show_icons=true&theme=prussian&hide_border=true&border-radius=36&count_private=true&include_all_commits=true)](https://github.com/EgeLosing)
+[![EgeLosing's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgeLosing&show_icons=true&theme=prussian&hide_border=true&border-radius=36&count_private=true)](https://github.com/EgeLosing)
 
 <p></p>
 
