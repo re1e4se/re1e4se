@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm EgeLosing</h1>
-<h3 align="center">I'm C# Developer.</h3>
+<h3 align="center">I'm C#, Python Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egelosing&label=Profile%20views&color=0e75b6&style=flat" alt="egelosing" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egelosing" alt="egelosing" /></a> </p>
 
-- 🔭 I’m currently working on **SUNRISE Launcher & SunCore**
+- 🔭 I’m currently working on **SUNRISE Launcher, SunCore, AI Stuff**
 
 - 🌱 I’m currently learning **C, C++**
 
-- 📫 How to reach me: **Discord: EgeLosing#9999**
+- 📫 How to reach me: **Discord: egelx, regularexpression**
 <p align="left">
 </p>
 
