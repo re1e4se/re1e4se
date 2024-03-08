@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
 <h3 align="center">I'm C#, Python Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egelosing&label=Profile%20views&color=0e75b6&style=flat" alt="egelosing" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=re1e4se&label=Profile%20views&color=0e75b6&style=flat" alt="re1e4se" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egelosing" alt="egelosing" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=re1e4se" alt="re1e4se" /></a> </p>
 
 - 🔭 I’m currently working on **SUNRISE Launcher, SunCore, AI Stuff**
 
