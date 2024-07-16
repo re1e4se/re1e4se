@@ -1,5 +1,5 @@
 <h1 align="">Hi, I'm Ege 👋</h1>
-<h3 align="">I'm C#, Python, JavaScript Developer.</h3>
+<h3 align="">I'm C#, Java, Python, JavaScript Developer.</h3>
 
 - 🔭 I’m currently working on **SUNRISE Launcher, SunCore, AI Stuff**
 
